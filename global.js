@@ -30,21 +30,21 @@ console.log('answer 5');
 /* Part 2: Statements */
 /**********************/
 
-// 5.) Assign a variable and console log the declaration
+// 6.) Assign a variable and console log the declaration
 // your code here 
-console.log('answer 5');
-
-// 6.) Console log a variable assigned to the sum of two numbers
-// your code here
 console.log('answer 6');
 
-// 7.) Uncomment this if else statement and add a logical expression as the condition
+// 7.) Console log a variable assigned to the sum of two numbers
+// your code here
+console.log('answer 8');
+
+// 8.) Uncomment this if else statement and add a logical expression as the condition
 //if (/*your code here*/) {
 //    console.log('It was!')
 //} else {
 //    console.log('It was not..')
 //}
 
-// 8.) Add parenthesis to the following statement, the result should be 1
+// 9.) Add parenthesis to the following statement, the result should be 1
 let answer = 2 * 3 + 1 / 8 + 12 / 2;
 console.log(answer == 1); // This should log true
