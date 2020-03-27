@@ -46,5 +46,5 @@ console.log('answer 8');
 //}
 
 // 9.) Add parenthesis to the following statement, the result should be 1
-let answer = 2 * 3 + 1 / 8 + 12 / 2;
+let answer = 3 * 3 + 1 / 8 + 12 / 2;
 console.log(answer == 1); // This should log true
